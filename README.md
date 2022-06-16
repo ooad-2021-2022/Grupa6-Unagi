@@ -1,6 +1,6 @@
 # Ulaznice.com
 ## Tema: Prodaja ulaznica
-![Slika](https://ibb.co/QMXV34b)
+![Slika](https://i.ibb.co/9WG0k78/ulaznice-com-Solid.png)
  
 ## Članovi tima:
 - [Benjamin Ažman](https://www.github.com/bazman11)
